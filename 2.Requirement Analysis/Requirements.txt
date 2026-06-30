@@ -1,0 +1,18 @@
+# Requirement Analysis: Credit Card Approval Prediction
+
+1. Hardware Requirements:
+- System: Windows / macOS / Linux
+- RAM: Minimum 4GB (8GB recommended)
+- Storage: At least 10GB of free space
+
+2. Software Requirements:
+- Language: Python (Version 3.8 or above)
+- Platform: Anaconda Navigator
+- IDE: Jupyter Notebook / JupyterLab
+- Modern Web Browser (Chrome / Edge / Firefox)
+
+3. Python Libraries Needed:
+- Data Analysis: pandas, numpy
+- Visualization: matplotlib, seaborn
+- Machine Learning: scikit-learn, imbalanced-learn
+-

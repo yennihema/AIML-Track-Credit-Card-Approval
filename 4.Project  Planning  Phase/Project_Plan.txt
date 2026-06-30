@@ -1,0 +1,24 @@
+# Project Planning Phase: Credit Card Approval Prediction
+
+Our project is structured into 4 sequential phases over a 4-week timeline:
+
+Phase 1: Requirements & Design (Week 1)
+- Brainstorming project scope and defining goals.
+- Completing Hardware and Software requirement analysis.
+- Designing system architecture and ER diagrams.
+
+Phase 2: Data Collection & Preparation (Week 2)
+- Gathering the credit card dataset from source.
+- Importing libraries into Jupyter Notebook.
+- Performing Univariate, Multivariate, and Descriptive data analysis.
+
+Phase 3: Development & Preprocessing (Week 3)
+- Handling missing data values and outliers.
+- Applying SMOTE technique to fix severe data imbalance.
+- Training machine learning models like Logistic Regression and Random Forest.
+
+Phase 4: Testing & Documentation (Week 4)
+- Evaluating model metrics using Confusion Matrix and F1-Score.
+- Exporting final model files.
+- Completing final project documentation and repository review.
+-
